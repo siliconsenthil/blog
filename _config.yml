@@ -17,10 +17,10 @@ keywords: ruby,ruby on rails,heroku,gem,web development,memory leak,
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
-# RSS feeds can list your email address if you like
-email:
+# subscribe_rss: /atom.xml
+# subscribe_email:
+# # RSS feeds can list your email address if you like
+# email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
