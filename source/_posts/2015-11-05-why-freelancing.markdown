@@ -35,6 +35,6 @@ After all, you're not working for deadlines someone else committed. I get to dec
 
 When I decided to do freelancing, I went thro many sites and I felt lost. Some of them were very generic. The space looked like a busy/noisy market. But I wanted something elegant, genuine and exclusive. I wanted to be in a ecosystem that respects talent. I want to be amongst peers who are good at what they do.
 
-One of my friends is doing freelancing and he introduced me to [Toptal](https://www.toptal.com). Having time spent and understanding it, I understood Toptal is not 'one-more-freelancing-site'. It really echoed my thought of standing amongst valuable peers which is ensured by their screening process.
+One of my friends is doing freelancing and he introduced me to [Toptal](https://www.toptal.com). Having time spent and understanding it, I understood Toptal is not 'one-more-freelancing-site'. It really echoed my thought of standing amongst valuable peers which is ensured by their screening process. And it sounds more exclusive with their [Web developers group](http://www.toptal.com/web).
 
 I'm excited about it. Let's see how it goes. :)
