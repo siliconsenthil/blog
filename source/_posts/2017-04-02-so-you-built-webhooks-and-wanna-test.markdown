@@ -29,4 +29,4 @@ So [webhook_recorder](https://github.com/siliconsenthil/webhook_recorder) is bor
 <br>
 <br>
 
-_PS: We at [Simpl](https://getsimpl.com) are in a mission of making money simple. Wanna join hands? Let me know at [@siliconsenthil](https://twitter.com/siliconsenthil)_
+_PS: We at [Simpl](https://getsimpl.com) are in a mission of making money simple. We value quality, talent and most importantly culture. Wanna join hands? Let me know at [@siliconsenthil](https://twitter.com/siliconsenthil)_
